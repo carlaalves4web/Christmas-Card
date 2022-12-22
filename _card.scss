@@ -1,0 +1,104 @@
+.main__card {
+  background-color: #000502;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+
+  &-img {
+    height: 100vh;
+    float: left;
+  }
+
+  &-message {
+    position: absolute;
+    font-family: 'Dancing Script', cursive;
+    top: 15vh;
+    left: 40vw;
+
+    h1 {
+      color: #ffffff;
+      font-size: 3rem;
+      z-index: 1;
+    }
+
+    p {
+      font-size: 1.5rem;
+      color: #ffffff;
+      z-index: 1;
+      line-height: 1.5;
+    }
+  }
+
+  .message_signature {
+    float: right;
+    font-weight: 600;
+    font-size: 1.3rem;
+  }
+
+  .message_signature {
+    float: left;
+  }
+
+  .credits {
+    font-size: 0.8rem;
+    color: rgba(#ffffff, 0.5);
+    float: left;
+    margin-left: 8px;
+    position: absolute;
+    bottom: 0;
+  }
+
+  #followers {
+    position: absolute;
+    width: 110%;
+    height: 110%;
+    bottom: 150px;
+    right: 150px;
+    z-index: 1;
+    -webkit-animation: following 31s infinite;
+    -ms-animation: following 31s infinite;
+    animation: following 31s infinite;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .main__card {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+
+    &-img {
+      width: 100vw;
+    }
+
+    &-message {
+      position: absolute;
+      font-family: 'Dancing Script', cursive;
+      top: 5vh;
+      left: 20vw;
+
+      h1 {
+        color: #ffffff;
+        font-size: 3rem;
+        z-index: 1;
+      }
+
+      p {
+        font-size: 1.5rem;
+        color: #ffffff;
+        z-index: 1;
+        line-height: 1;
+      }
+    }
+
+    #followers {
+      position: absolute;
+      align-items: center;
+      width: 100px;
+      height: 100px;
+      -webkit-animation: following 31s infinite;
+      -ms-animation: following 31s infinite;
+      animation: following 31s infinite;
+    }
+  }
+}
