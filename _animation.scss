@@ -1,0 +1,514 @@
+@-webkit-keyframes following {
+  0% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background: url('/src/image/f1.jpg'); /* Kaje */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  5% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f2.png'); /* SpaceCode */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  8% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f3.jpg'); /* Sam */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  15% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f4.jpg'); /* Ayuni */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  20% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f5.png'); /* Saar */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  25% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f6.jpg'); /* Daniel */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  30% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f7.jpg'); /* Jason Alba */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  35% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f8.jpg'); /* Sebastian */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  40% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f9.jpg'); /* Darcy */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  45% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f8.jpg'); /* Hugo Loss */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  50% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f11.jpg'); /* Território Secreto */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  55% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f12.jpg'); /* Cristina Saraiva */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  60% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f13.jpeg'); /* Rodrigo Olsen */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  65% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f14.jpg'); /* George Dantas */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  70% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f15.jpg'); /* Mariana */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  75% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f16.jpg'); /* Leandro Machado */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  80% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f17.jpg'); /* Pablo */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  85% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f18.jpg'); /* Martin */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  90% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f19.jpg'); /* INC */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  95% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f20.jpg'); /* Sage */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  100% {
+    -webkit-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f21.jpg'); /* Áurea */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+}
+
+@-ms-keyframes following {
+  0% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background: url('/src/image/f1.jpg'); /* Kaje */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  5% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f2.png'); /* SpaceCode */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  10% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f3.jpg'); /* Sam */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  15% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f4.jpg'); /* Ayuni */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  20% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f5.png'); /* Saar */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  25% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f6.jpg'); /* Daniel */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+
+  30% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f7.jpg'); /* Jason Alba */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  35% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f8.jpg'); /* Sebastian */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  40% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f9.jpg'); /* Darcy */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  45% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f10.jpg'); /* Hugo Loss */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  50% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f11.jpg'); /* Território Secreto */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  55% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f12.jpg'); /* Cristina */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  60% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f13.jpeg'); /* Rodrigo Olsen */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  65% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f14.jpg'); /* George Dantas */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  70% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f15.jpg'); /* Mariana */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  75% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f16.jpg'); /* Leandro Machado */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  80% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f17.jpg'); /* Pablo */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  85% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f18.jpg'); /* Martin */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  90% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f19.jpg'); /* INC */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  95% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f20.jpg'); /* Sage */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  100% {
+    -ms-animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f21.jpg'); /* Áurea */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+}
+
+@keyframes following {
+  0% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background: url('/src/image/f1.jpg'); /* Kaje */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  5% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f2.png'); /* SpaceCode */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  10% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f3.jpg'); /* Sam */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  15% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f4.jpg'); /* Ayuni */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  20% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f5.png'); /* Saar */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  25% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f6.jpg'); /* Daniel */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+
+  30% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f7.jpg'); /* Jason Alba */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  35% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f8.jpg'); /* Sebastian */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  40% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f9.jpg'); /* Darcy */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  45% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f10.jpg'); /* Hugo Loss */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  50% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f11.jpg'); /* Território Secreto */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  55% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f12.jpg'); /* Cristina */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  60% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f13.jpeg'); /* Rodrigo Olsen */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  65% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f14.jpg'); /* George Dantas */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  70% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f15.jpg'); /* Mariana */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  75% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f16.jpg'); /* Leandro Machado */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  80% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f17.jpg'); /* Pablo */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  85% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f18.jpg'); /* Martin */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  90% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f19.jpg'); /* INC */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  95% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f20.jpg'); /* Sage */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+  100% {
+    animation-timing-function: ease-in-out;
+    opacity: 1;
+    background-image: url('/src/image/f21.jpg'); /* Áurea */
+    border-radius: 50%;
+    bottom: 8vw;
+    right: 8vw;
+  }
+}
